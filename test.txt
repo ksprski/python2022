@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:01:01,000
+This will begin to make things right.
+
+2
+00:02:00,100 --> 00:03:02,100
+I've traveled too far and seen too much
+
+3
+00:03:03,200 --> 00:03:05,500
+to ignore the despair in the galaxy.
